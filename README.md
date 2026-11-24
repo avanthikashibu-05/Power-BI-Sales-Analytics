@@ -64,11 +64,6 @@ To analyze retail performance and answer key business questions:
 └── README.md
 ```
 
-🚀 How to Use
-1. Download the `.pbix` file from this repo.
-2. Open it in **Power BI Desktop**.
-3. Use the **Date** and **Country** slicers and the **Sales / Profit / Demographics** buttons to explore.
-
 
 👩‍💻 Author
 Avanthika Shibu
